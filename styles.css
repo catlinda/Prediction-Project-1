@@ -1,0 +1,27 @@
+.bio {
+    text-align: center;
+    color: white;
+}
+h1 {
+    text-align: center;   
+    color: white;
+    font-family: 'Baloo Chettan', cursive;
+}
+body {
+    background-image: url("https://wallpaperplay.com/walls/full/c/4/0/207162.jpg");
+}
+h2 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Teko', sans-serif;
+
+}
+#result {
+    color: white;
+    font-family: 'Germania One', cursive;
+    font-size: 40px;
+
+}
+.name {
+    color: white;   
+}
